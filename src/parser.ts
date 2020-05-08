@@ -3,12 +3,12 @@ interface Node {
 }
 
 interface Container {
-  [key: string]: Array<Node>
+  [key: string]: Node[]
 }
 
-const isElementNode = (type: number) => type === 1
+const isNodeElement = (node: ChildNode) => node.nodeType === 1
 
-const hasChildNodes = (lengthOfChildNodes: number) => lengthOfChildNodes > 1
+const hasNodeChildNodes = (node: ChildNode) => node.childNodes.length > 1
 
 const extractNode = (node: ChildNode) => {
   const element: Node = (node.textContent) ? {textContent: node.textContent} : {}
@@ -39,8 +39,8 @@ const parsedDomToJson = (nodes: NodeListOf<ChildNode>) => {
   const containerWithProxy = addEmptyArrayProxy(container)
 
   for (const node of nodes) {
-    if (isElementNode(node.nodeType)) {
-      const element = hasChildNodes(node.childNodes.length) ?
+    if (isNodeElement(node)) {
+      const element = hasNodeChildNodes(node) ?
         parsedDomToJson(node.childNodes) :
         extractNode(node)
 
