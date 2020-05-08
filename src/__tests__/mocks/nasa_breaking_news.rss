@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Breaking News</title>
+ <description>A RSS news feed containing the latest NASA news articles and press releases.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/breaking_news.rss" />
+ <language>en-us</language>
+ <managingEditor>jim.wilson@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <docs>http://blogs.harvard.edu/tech/rss</docs>
+ <item> <title>NASA TV to Air Northrop Grumman’s Cygnus Departure from Space Station</title>
+ <link>http://www.nasa.gov/press-release/nasa-tv-to-air-northrop-grumman-s-cygnus-departure-from-space-station</link>
+ <description>Nearly three months after delivering several tons of supplies and scientific experiments to the International Space Station, Northrup Grumman’s unpiloted Cygnus cargo craft is scheduled to depart the International Space Station on Monday, May 11.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/49558174401_3f631242df_k.jpg?itok=VBCyYD9R" length="655169" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-tv-to-air-northrop-grumman-s-cygnus-departure-from-space-station</guid>
+ <pubDate>Wed, 06 May 2020 11:40 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>460520</dc:identifier>
+</item>
+ <item> <title>NASA Builds on Investments in US Small Business’ Beneficial Technologies</title>
+ <link>http://www.nasa.gov/press-release/nasa-builds-on-investments-in-us-small-business-beneficial-technologies</link>
+ <description>NASA has selected 139 proposals for follow-on funding though the agency’s Small Business Innovation Research (SBIR) program.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/moontomars_1.jpg?itok=hIgOa367" length="152579" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-builds-on-investments-in-us-small-business-beneficial-technologies</guid>
+ <pubDate>Tue, 05 May 2020 14:43 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>460493</dc:identifier>
+</item>
+ <item> <title>NASA to Provide Coverage of SpaceX Commercial Crew Test Flight with Astronauts</title>
+ <link>http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-spacex-commercial-crew-test-flight-with-astronauts</link>
+ <description>NASA will provide coverage of the upcoming prelaunch and launch activities for the agency’s SpaceX Demo-2 test flight with NASA astronauts Robert Behnken and Douglas Hurley to the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/bob_and_doug.jpg?itok=Xjzkfvha" length="793398" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-spacex-commercial-crew-test-flight-with-astronauts</guid>
+ <pubDate>Fri, 01 May 2020 16:07 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>460437</dc:identifier>
+</item>
+ <item> <title>NASA Commits to Future Artemis Missions with More SLS Rocket Engines</title>
+ <link>http://www.nasa.gov/press-release/nasa-commits-to-future-artemis-missions-with-more-sls-rocket-engines</link>
+ <description>NASA has awarded a contract to Aerojet Rocketdyne of Sacramento, California, to manufacture 18 additional Space Launch System (SLS) RS-25 rocket engines to support Artemis missions to the Moon.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/maf_20191107_engine_section_full_jude-3198_large.jpg?itok=TdaLVfR0" length="385367" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-commits-to-future-artemis-missions-with-more-sls-rocket-engines</guid>
+ <pubDate>Fri, 01 May 2020 14:42 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>460429</dc:identifier>
+</item>
+ <item> <title>Educators to Speak with NASA Astronaut Aboard Space Station</title>
+ <link>http://www.nasa.gov/press-release/educators-to-speak-with-nasa-astronaut-aboard-space-station</link>
+ <description>Educators from across the nation will have an opportunity next week to talk with a NASA astronaut aboard the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/chriscassidy.jpg?itok=xrBiSRTx" length="346782" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/educators-to-speak-with-nasa-astronaut-aboard-space-station</guid>
+ <pubDate>Fri, 01 May 2020 12:59 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>460427</dc:identifier>
+</item>
+ <item> <title>NASA-Developed Ventilator Authorized by FDA for Emergency Use</title>
+ <link>http://www.nasa.gov/press-release/nasa-developed-ventilator-authorized-by-fda-for-emergency-use</link>
+ <description>A new high-pressure ventilator developed by NASA engineers and tailored to treat coronavirus (COVID-19) patients today was approved by the Food and Drug Administration (FDA) for use under the FDA’s March 24 ventilator Emergency Use Authorization.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/pia23775-frontfacing_portrait_vital.jpg?itok=NSF7Udfb" length="1537318" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-developed-ventilator-authorized-by-fda-for-emergency-use</guid>
+ <pubDate>Thu, 30 Apr 2020 15:13 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>460395</dc:identifier>
+</item>
+ <item> <title>NASA Names Companies to Develop Human Landers for Artemis Moon Missions</title>
+ <link>http://www.nasa.gov/press-release/nasa-names-companies-to-develop-human-landers-for-artemis-moon-missions</link>
+ <description>NASA has selected three U.S. companies to design and develop human landing systems (HLS) for the agency’s Artemis program, one of which will land the first woman and next man on the surface of the Moon by 2024.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/hls-eva-apr2020.jpg?itok=50s0SlI4" length="5299930" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-names-companies-to-develop-human-landers-for-artemis-moon-missions</guid>
+ <pubDate>Thu, 30 Apr 2020 11:29 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>460374</dc:identifier>
+</item>
+ <item> <title>NASA, Partners Launch Virtual Hackathon to Develop COVID-19 Solutions</title>
+ <link>http://www.nasa.gov/press-release/nasa-partners-launch-virtual-hackathon-to-develop-covid-19-solutions</link>
+ <description>NASA, ESA (European Space Agency) and JAXA (Japan Aerospace Exploration Agency) are inviting coders, entrepreneurs, scientists, designers, storytellers, makers, builders, artists, and technologists to participate in a virtual hackathon May 30-31 dedicated to putting open data to work in developing solutions to issues related to the COVID-19 pandemi</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/space_apps_logo.jpg?itok=-F3xXfz6" length="131805" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-partners-launch-virtual-hackathon-to-develop-covid-19-solutions</guid>
+ <pubDate>Thu, 30 Apr 2020 09:29 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>460366</dc:identifier>
+</item>
+ <item> <title>NASA to Announce Commercial Human Lander Awards for Artemis Moon Missions</title>
+ <link>http://www.nasa.gov/press-release/nasa-to-announce-commercial-human-lander-awards-for-artemis-moon-missions</link>
+ <description>NASA will host a media teleconference at 1 p.m. EDT Thursday, April 30, to announce the companies selected to develop modern human landing systems (HLS) that will carry the first woman and next man to the surface of the Moon by 2024 and develop sustainable lunar exploration by the end of the decade.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/hls_hero_00005.jpg?itok=hkwcyDEr" length="227073" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-to-announce-commercial-human-lander-awards-for-artemis-moon-missions</guid>
+ <pubDate>Tue, 28 Apr 2020 11:18 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>460274</dc:identifier>
+</item>
+ <item> <title>NASA Administrator Statement on Passing of Former Administrator James Beggs</title>
+ <link>http://www.nasa.gov/press-release/nasa-administrator-statement-on-passing-of-former-administrator-james-beggs</link>
+ <description>Statement from NASA Administrator Jim Bridenstine on the passing of the agency’s sixth administrator, James Beggs, on April 23.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa-logo-web-rgb.jpg?itok=36eU9WU7" length="189751" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-administrator-statement-on-passing-of-former-administrator-james-beggs</guid>
+ <pubDate>Sat, 25 Apr 2020 18:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>460230</dc:identifier>
+</item>
+</channel>
+</rss>

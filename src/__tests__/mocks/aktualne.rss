@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:blackbox="http://i0.cz/bbx/rss/" xmlns:jwplayer="http://developer.longtailvideo.com/trac/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+	<title>koronavirus - Aktuálně.cz</title>
+	<link>https://zpravy.aktualne.cz/koronavirus/l~i:keyword:126005/</link>
+	<atom:link href="https://zpravy.aktualne.cz/mrss/koronavirus/l~i:keyword:126005/" rel="self" type="application/rss+xml" />
+	<description>Hledáte informace o průběhu nákazy či třeba starší vydané články na toto téma? Na tomto místě najdete všechny naše vydané zpravodajské materiály o novém...</description>
+	<language>cs</language>	<pubDate>Fri, 01 May 2020 14:15:21 +0200</pubDate>
+	<lastBuildDate>Fri, 01 May 2020 14:15:21 +0200</lastBuildDate>
+
+	<blackbox:feed pageType="listing"></blackbox:feed>
+		<image>
+		<title>koronavirus - Aktuálně.cz</title>
+					<url>https://asset.stdout.cz/fe/aktualne/img/acz-desktop-logo-dark.png</url>
+				<link>https://zpravy.aktualne.cz/koronavirus/l~i:keyword:126005/</link>
+	</image>
+	<item>
+	<title>Na zahrádky v rouškách, kina zaplněná jen částečně. Jaké bude Česko po 11. květnu?</title>
+	<link>https://zpravy.aktualne.cz/domaci/cesko-po-11-kvetnu-na-zahradky-v-rouskach-kina-budou-zaplnen/r~3eedfe368b8b11eab115ac1f6b220ee8/</link>
+	<category domain="https://zpravy.aktualne.cz/domaci/">Domácí</category>
+	<pubDate>
+					Fri, 01 May 2020 12:18:13 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Vláda představila podmínky rozvolňování. Jak konkrétně bude vypadat život v Česku po 11. květnu?</description>
+		<blackbox:extra shortTitle="Na zahrádky v rouškách, kina zaplněná jen částečně. Jaké bude Česko po 11. květnu?" exportTitle="Na zahrádky v rouškách, kina zaplněná jen částečně. Jaké bude Česko po 11. květnu?" bbxType="graphicscoda" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/08501a1f58e4364d9ffdf63c594e898d_resize=400,300_.jpg?hash=d4153cfe4ecd4539dec08e1a9e32d3e8" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/08501a1f58e4364d9ffdf63c594e898d_resize=200,150_.jpg?hash=d409031eba72ddcf812927d9e233b5a0" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/08501a1f58e4364d9ffdf63c594e898d_resize=90,67_.jpg?hash=d4d8c58c2c3f41cff018d4f1264ebc3d" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/08501a1f58e4364d9ffdf63c594e898d_extract=0,470,1278,1278_resize=54,54_.jpg?hash=689027a95da63f1d26614d6909f7e3ff" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/08501a1f58e4364d9ffdf63c594e898d_extract=112,24,1887,1061_resize=356,200_.jpg?hash=0099ce29dd6abbbab8faa788cc328b64" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/08501a1f58e4364d9ffdf63c594e898d_resize=396,264_.jpg?hash=78d56788e5d7add8b18867097d9ec2df" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/08501a1f58e4364d9ffdf63c594e898d_resize=200,150_.jpg?hash=d409031eba72ddcf812927d9e233b5a0" height="150" width="200" />
+					<media:title type="html"><![CDATA[Na zahrádky v rouškách, kina zaplněná jen částečně. Jaké bude Česko po 11. květnu?]]></media:title>
+	</media:group>
+	<guid isPermaLink="false">3eedfe368b8b11eab115ac1f6b220ee8</guid>
+</item>
+	<item>
+	<title>Chytrá karanténa začala fungovat. Odhalíme třetinu kontaktů nemocného, tvrdí Prymula</title>
+	<link>https://zpravy.aktualne.cz/domaci/prymula-diky-chytre-karantene-budeme-schopni-odhalit-az-tret/r~598e757c8b9011eab115ac1f6b220ee8/</link>
+	<category domain="https://zpravy.aktualne.cz/domaci/">Domácí</category>
+	<pubDate>
+					Fri, 01 May 2020 11:49:10 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Systém chytré karantény používá k odhalování nových případů nemoci covid-19 moderní technologie, například údaje z mobilních telefonů.</description>
+		<blackbox:extra shortTitle="Chytrá karanténa začala fungovat. Odhalíme třetinu kontaktů nemocného, tvrdí Prymula" exportTitle="Chytrá karanténa začala fungovat. Odhalíme třetinu kontaktů nemocného, tvrdí Prymula" bbxType="article" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/d931b0ac13b83b04ab953c59d40c1cf6_resize=400,300_.jpg?hash=7b87205c307c8b4ad9702dd96c2fbcd3" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/d931b0ac13b83b04ab953c59d40c1cf6_resize=200,150_.jpg?hash=e2a019993732ff91bfe2304d13d3b275" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/d931b0ac13b83b04ab953c59d40c1cf6_resize=90,67_.jpg?hash=2fe8904fd0de0c89cab413107ab674f0" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/d931b0ac13b83b04ab953c59d40c1cf6_resize=54,54_.jpg?hash=994ff1f384fd6e20abc78e0166b9d584" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/d931b0ac13b83b04ab953c59d40c1cf6_extract=89,0,1750,985_resize=356,200_.jpg?hash=d5912f9970630fc40eb87a3a0d11f87e" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/d931b0ac13b83b04ab953c59d40c1cf6_resize=396,264_.jpg?hash=bdf350c000e6d91b17df217da1e94347" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/d931b0ac13b83b04ab953c59d40c1cf6_resize=200,150_.jpg?hash=e2a019993732ff91bfe2304d13d3b275" height="150" width="200" />
+					<media:title type="html"><![CDATA[Chytrá karanténa začala fungovat. Odhalíme třetinu kontaktů nemocného, tvrdí Prymula]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">598e757c8b9011eab115ac1f6b220ee8</guid>
+</item>
+	<item>
+	<title>Svátek práce slaví prací. Většina obchodů bude v pátek otevřená, pozor ale na výjimky</title>
+	<link>https://zpravy.aktualne.cz/finance/nakupovani/svatek-obchody-oteviraci-doba-koronavirus/r~a176952089f811eab115ac1f6b220ee8/</link>
+	<category domain="https://zpravy.aktualne.cz/finance/nakupovani/">Nakupování</category>
+	<pubDate>
+					Fri, 01 May 2020 11:30:40 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Zatímco na Velikonoce zůstaly velké prodejny svorně zavřené, i když v nouzovém stavu nemusely, na Svátek práce obchodníci už tak jednotní nebudou.</description>
+		<blackbox:extra shortTitle="Svátek práce slaví prací. Většina obchodů bude v pátek otevřená, pozor ale na výjimky" exportTitle="Svátek práce slaví prací. Většina obchodů bude v pátek otevřená, pozor ale na výjimky" bbxType="article" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/254a0489881d3ef889e2f8c430c23a8d_resize=400,300_.jpg?hash=fb138e88ecc409515e5bbc447fcf58bc" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/254a0489881d3ef889e2f8c430c23a8d_resize=200,150_.jpg?hash=828a4c2d53d45c43cc202c675d08a937" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/254a0489881d3ef889e2f8c430c23a8d_resize=90,67_.jpg?hash=76f74a11123b16858182b005615146b1" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/254a0489881d3ef889e2f8c430c23a8d_resize=54,54_.jpg?hash=22be9efc2fc5aab5697a60afb4e3de1a" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/254a0489881d3ef889e2f8c430c23a8d_resize=356,200_.jpg?hash=46695f704d25d642c0deb3869a185361" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/254a0489881d3ef889e2f8c430c23a8d_resize=396,264_.jpg?hash=a9cf277e22a352a415f87ef5c4f9e6cf" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/254a0489881d3ef889e2f8c430c23a8d_resize=200,150_.jpg?hash=828a4c2d53d45c43cc202c675d08a937" height="150" width="200" />
+					<media:title type="html"><![CDATA[Svátek práce slaví prací. Většina obchodů bude v pátek otevřená, pozor ale na výjimky]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">a176952089f811eab115ac1f6b220ee8</guid>
+</item>
+	<item>
+	<title>Kadeřníci se štíty, kina bez popcornu. Vláda představila podmínky rozvolňování</title>
+	<link>https://zpravy.aktualne.cz/domaci/on-line-koronavirus/r~349bcaaa8aee11ea842f0cc47ab5f122/</link>
+	<category domain="https://zpravy.aktualne.cz/domaci/">Domácí</category>
+	<pubDate>
+					Fri, 01 May 2020 11:14:56 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Události kolem pandemie koronaviru v Česku i ve světě sledujeme v on-line reportáži.</description>
+								<blackbox:online
+			state="running"
+			type="customicons"
+			league=""
+			round=""
+			matchStart=""
+			eventStart=""
+			score="-:-"
+			homeTeam=""
+			visitingTeam=""
+			homeTeamShort=""
+			visitingTeamShort=""
+			homeTeamImage=""
+			visitingTeamImage=""
+	>
+			</blackbox:online>
+	<blackbox:extra shortTitle="Kadeřníci se štíty, kina bez popcornu. Vláda představila podmínky rozvolňování" exportTitle="Kadeřníci se štíty, kina bez popcornu. Vláda představila podmínky rozvolňování" bbxType="online" primaryObject="embed" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/02e3ba368c7a361dbbad02d352938bac_resize=400,300_.jpg?hash=6b152ff567609c1d5b81568550cfc14f" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/02e3ba368c7a361dbbad02d352938bac_resize=200,150_.jpg?hash=a707e2de395f475111cd112c4754a8a2" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/02e3ba368c7a361dbbad02d352938bac_resize=90,67_.jpg?hash=755e448bd65415fec8237b51ec2626ea" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/02e3ba368c7a361dbbad02d352938bac_resize=54,54_.jpg?hash=a24f52eec54734a7a3b6d407f8a90398" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/02e3ba368c7a361dbbad02d352938bac_resize=356,200_.jpg?hash=deb772ba2f67f446d9561bb963b29862" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/02e3ba368c7a361dbbad02d352938bac_resize=396,264_.jpg?hash=ebdb40e0ea5d202e21ded37d9b6c2bd9" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/cf8c8ee92abe3390b7203de4378de237_resize=200,150_.jpg?hash=875414ba3ba3bb4a8db161c216925051" height="150" width="200" />
+					<media:title type="html"><![CDATA[Kadeřníci se štíty, kina bez popcornu. Vláda představila podmínky rozvolňování]]></media:title>
+	</media:group>
+	<guid isPermaLink="false">349bcaaa8aee11ea842f0cc47ab5f122</guid>
+</item>
+	<item>
+	<title>Kouká z toho účelovost, kritizuje Baxa chystané posílení pravomoci ministra Vojtěcha</title>
+	<link>https://zpravy.aktualne.cz/domaci/kouka-z-toho-ucelovost-kritizuje-baxa-posileni-pravomoci-mz/r~bb1d484e8b0511eab1110cc47ab5f122/</link>
+	<category domain="https://zpravy.aktualne.cz/domaci/">Domácí</category>
+	<pubDate>
+					Fri, 01 May 2020 08:01:49 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Bývalému předsedovi Nejvyššího správního soudu se nelíbí, že by o omezeních kvůli pandemii měl rozhodovat pouze ministr zdravotnictví.</description>
+		<blackbox:extra shortTitle="Kouká z toho účelovost, kritizuje Baxa chystané posílení pravomoci ministra Vojtěcha" exportTitle="Kouká z toho účelovost, kritizuje Baxa chystané posílení pravomoci ministra Vojtěcha" bbxType="article" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/ce6f1fd87ccf332bad8e3a1464500c94_extract=0,194,1556,1167_resize=400,300_.jpg?hash=0a1711a91dace815d02e304cb799ef62" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/ce6f1fd87ccf332bad8e3a1464500c94_extract=0,194,1556,1167_resize=200,150_.jpg?hash=b9abbe186162b0507fc343f08c670317" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/ce6f1fd87ccf332bad8e3a1464500c94_extract=0,194,1556,1167_resize=90,67_.jpg?hash=309a188ba9a1d929e258c5d04a5055f1" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/ce6f1fd87ccf332bad8e3a1464500c94_extract=0,429,1167,1167_resize=54,54_.jpg?hash=e2a80ffaa1dd1552309688a5a682985d" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/ce6f1fd87ccf332bad8e3a1464500c94_extract=26,0,1750,985_resize=356,200_.jpg?hash=ea3ea163af56383a96ea733b929717cd" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/ce6f1fd87ccf332bad8e3a1464500c94_resize=396,264_.jpg?hash=4e98a6dca70831a32479f2b9b379f7d3" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/ce6f1fd87ccf332bad8e3a1464500c94_extract=0,194,1556,1167_resize=200,150_.jpg?hash=b9abbe186162b0507fc343f08c670317" height="150" width="200" />
+					<media:title type="html"><![CDATA[Kouká z toho účelovost, kritizuje Baxa chystané posílení pravomoci ministra Vojtěcha]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">bb1d484e8b0511eab1110cc47ab5f122</guid>
+</item>
+	<item>
+	<title>Kolik je potvrzených nakažených v krajích? Aktuální data v mapě Česka</title>
+	<link>https://zpravy.aktualne.cz/domaci/pocty-nakazenych-v-krajich/r~c68291be683f11ea9d74ac1f6b220ee8/</link>
+	<category domain="https://zpravy.aktualne.cz/domaci/">Domácí</category>
+	<pubDate>
+					Fri, 01 May 2020 07:27:08 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Potvrzené případy nákazy koronavirem v krajích České republiky a přehled prvních nakažených na našem území.</description>
+		<blackbox:extra shortTitle="Kolik je potvrzených nakažených v krajích? Aktuální data v mapě Česka" exportTitle="Kolik je potvrzených nakažených v krajích? Aktuální data v mapě Česka" bbxType="graphics" subtype="graphicsexternal" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/564ea18f0c69318db51ddf31024e82d2_extract=165,163,1405,1054_resize=400,300_.jpg?hash=fb3878a0907ad7d6c3c029b5e99adf6c" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/564ea18f0c69318db51ddf31024e82d2_extract=165,163,1405,1054_resize=200,150_.jpg?hash=eec01b1c705546d57c7d626997b46e61" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/564ea18f0c69318db51ddf31024e82d2_extract=165,163,1405,1054_resize=90,67_.jpg?hash=d088d6fb4cea755fdf0c84bad3462e4f" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/564ea18f0c69318db51ddf31024e82d2_extract=93,281,1183,1183_resize=54,54_.jpg?hash=bf41655cb1569e4321a20403968a7f3c" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/564ea18f0c69318db51ddf31024e82d2_extract=252,159,1421,800_resize=356,200_.jpg?hash=5d4010efb641cf547d3337bb3d526f02" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/564ea18f0c69318db51ddf31024e82d2_extract=252,199,1326,884_resize=396,264_.jpg?hash=892384c5aa9ef68f8c359007892069ba" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/564ea18f0c69318db51ddf31024e82d2_extract=165,163,1405,1054_resize=200,150_.jpg?hash=eec01b1c705546d57c7d626997b46e61" height="150" width="200" />
+					<media:title type="html"><![CDATA[Kolik je potvrzených nakažených v krajích? Aktuální data v mapě Česka]]></media:title>
+	</media:group>
+	<guid isPermaLink="false">c68291be683f11ea9d74ac1f6b220ee8</guid>
+</item>
+	<item>
+	<title>Vláda schválila nové výjimky z nošení roušek i mírnější pravidla pro pendlery</title>
+	<link>https://zpravy.aktualne.cz/domaci/on-line-koronavirus/r~001034d8860c11eaa25cac1f6b220ee8/</link>
+	<category domain="https://zpravy.aktualne.cz/domaci/">Domácí</category>
+	<pubDate>
+					Thu, 30 Apr 2020 23:03:49 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Události kolem pandemie koronaviru v Česku i ve světě sledujeme v on-line reportáži.</description>
+											<blackbox:online
+			state="finished"
+			type="customicons"
+			league=""
+			round=""
+			matchStart=""
+			eventStart=""
+			score="-:-"
+			homeTeam=""
+			visitingTeam=""
+			homeTeamShort=""
+			visitingTeamShort=""
+			homeTeamImage=""
+			visitingTeamImage=""
+	>
+			</blackbox:online>
+	<blackbox:extra shortTitle="Vláda schválila nové výjimky z nošení roušek i mírnější pravidla pro pendlery" exportTitle="Vláda schválila nové výjimky z nošení roušek i mírnější pravidla pro pendlery" bbxType="online" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/0a6e472f447e358bb2a4b43d50dd495d_resize=400,300_.jpg?hash=e51bb1c0368fa70e9e2c50efdff8b65a" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/0a6e472f447e358bb2a4b43d50dd495d_resize=200,150_.jpg?hash=9c5a4fd203c301f771477df318af4ce3" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/0a6e472f447e358bb2a4b43d50dd495d_resize=90,67_.jpg?hash=fa2a983e2598939c59ee10266ddf7583" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/0a6e472f447e358bb2a4b43d50dd495d_resize=54,54_.jpg?hash=f2db1344b981abe140b465f23905cc63" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/0a6e472f447e358bb2a4b43d50dd495d_extract=86,0,1750,985_resize=356,200_.jpg?hash=675dbf5c8d3ac8b3686b205906d611ab" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/0a6e472f447e358bb2a4b43d50dd495d_extract=28,0,1750,1167_resize=396,264_.jpg?hash=15aaf55d1f0714369468ba01568c3d42" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/0a6e472f447e358bb2a4b43d50dd495d_resize=200,150_.jpg?hash=9c5a4fd203c301f771477df318af4ce3" height="150" width="200" />
+					<media:title type="html"><![CDATA[Vláda schválila nové výjimky z nošení roušek i mírnější pravidla pro pendlery]]></media:title>
+	</media:group>
+	<guid isPermaLink="false">001034d8860c11eaa25cac1f6b220ee8</guid>
+</item>
+	<item>
+	<title>Španělé se moc shlukovali, tak budou mít vycházky podle věku jen v určených hodinách</title>
+	<link>https://zpravy.aktualne.cz/zahranici/spanelska-vlada-stanovila-od-soboty-na-vychazky-rozvrh-hodin/r~116e57068b1a11eab408ac1f6b220ee8/</link>
+	<category domain="https://zpravy.aktualne.cz/zahranici/">Zahraničí</category>
+	<pubDate>
+					Thu, 30 Apr 2020 21:39:20 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Od soboty budou moci Španělé jít ven také postarat se o své zahrádky, ale pouze v dosahu bydliště.</description>
+		<blackbox:extra shortTitle="Španělé se moc shlukovali, tak budou mít vycházky podle věku jen v určených hodinách" exportTitle="Španělé se moc shlukovali, tak budou mít vycházky podle věku jen v určených hodinách" bbxType="article" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/e3c4d14db12d3c15bf8e6847b7f2549c_extract=0,71,939,704_resize=400,300_.jpg?hash=7b400f8f50737ce37b56a5f7d5149a3b" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/e3c4d14db12d3c15bf8e6847b7f2549c_extract=0,71,939,704_resize=200,150_.jpg?hash=cf6964036a58ca2d5c4f57a9afcf01a3" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/e3c4d14db12d3c15bf8e6847b7f2549c_extract=0,71,939,704_resize=90,67_.jpg?hash=e5e1106b41e18d1693fa0d450ad1b50e" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/e3c4d14db12d3c15bf8e6847b7f2549c_extract=0,97,704,704_resize=54,54_.jpg?hash=34d70278f6d4afb45bc5beca958a0cf6" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/e3c4d14db12d3c15bf8e6847b7f2549c_extract=112,0,1024,576_resize=356,200_.jpg?hash=c2003f1d620cd26c26b4cf9ca11b1e42" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/e3c4d14db12d3c15bf8e6847b7f2549c_extract=22,0,1023,682_resize=396,264_.jpg?hash=0ec101b67560739ed8240903fe8d5251" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/e3c4d14db12d3c15bf8e6847b7f2549c_extract=0,71,939,704_resize=200,150_.jpg?hash=cf6964036a58ca2d5c4f57a9afcf01a3" height="150" width="200" />
+					<media:title type="html"><![CDATA[Španělé se moc shlukovali, tak budou mít vycházky podle věku jen v určených hodinách]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">116e57068b1a11eab408ac1f6b220ee8</guid>
+</item>
+	<item>
+	<title>Vakcínu proti viru vyvineme rychlostí, jakou svět neviděl, řekl Trump</title>
+	<link>https://zpravy.aktualne.cz/zahranici/vakcinu-proti-viru-vyvineme-rychlosti-jakou-svet-nevidel-rek/r~eda51b3e8b0f11ea80e60cc47ab5f122/</link>
+	<category domain="https://zpravy.aktualne.cz/zahranici/">Zahraničí</category>
+	<pubDate>
+					Thu, 30 Apr 2020 20:28:50 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Do projektu, který má kódové označení &quot;Operace rychlost světla&quot;, se zapojí privátní farmaceutické firmy, vládní agentury a armáda.</description>
+		<blackbox:extra shortTitle="Vakcínu proti viru vyvineme rychlostí, jakou svět neviděl, řekl Trump" exportTitle="Vakcínu proti viru vyvineme rychlostí, jakou svět neviděl, řekl Trump" bbxType="article" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/f837e3952d4031409f8e124f741ce0b3_resize=400,300_.jpg?hash=bd7c815cdeba18d40280a6eb17dd4fef" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/f837e3952d4031409f8e124f741ce0b3_resize=200,150_.jpg?hash=25a932345d5da89306099b8a5328b3c4" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/f837e3952d4031409f8e124f741ce0b3_resize=90,67_.jpg?hash=41be4b9bd95404f8706d82118eeb36cd" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/f837e3952d4031409f8e124f741ce0b3_resize=54,54_.jpg?hash=ff71bd202fbacfca83846fdc1e99be27" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/f837e3952d4031409f8e124f741ce0b3_extract=10,0,640,360_resize=356,200_.jpg?hash=c17ed9214c6d5740824c133e9b0ac4e9" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/f837e3952d4031409f8e124f741ce0b3_resize=396,264_.jpg?hash=0ec0b9a1c33725904bffad7d2853a42e" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/f837e3952d4031409f8e124f741ce0b3_resize=200,150_.jpg?hash=25a932345d5da89306099b8a5328b3c4" height="150" width="200" />
+					<media:title type="html"><![CDATA[Vakcínu proti viru vyvineme rychlostí, jakou svět neviděl, řekl Trump]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">eda51b3e8b0f11ea80e60cc47ab5f122</guid>
+</item>
+	<item>
+	<title>Říkali mu &quot;tropický Trump&quot;, teď jeho popularita padá. Bolsonaro čelí rozsáhlé kauze</title>
+	<link>https://zpravy.aktualne.cz/zahranici/jair-bolsonaro-v-problemech-celi-vysetrovani-i-koronaviru/r~9b5723ba8a0e11eaaabd0cc47ab5f122/</link>
+	<category domain="https://zpravy.aktualne.cz/zahranici/">Zahraničí</category>
+	<pubDate>
+					Thu, 30 Apr 2020 18:10:00 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Brazilského prezidenta opustil důležitý spojenec. Bývalý ministr spravedlnosti ho viní z maření policejního vyšetřování vlastních synů.</description>
+		<blackbox:extra shortTitle="Říkali mu &quot;tropický Trump&quot;, teď jeho popularita padá. Bolsonaro čelí rozsáhlé kauze" exportTitle="Říkali mu &quot;tropický Trump&quot;, teď jeho popularita padá. Bolsonaro čelí rozsáhlé kauze" bbxType="article" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/32654fb8caf8323db6486148fd28347b_resize=400,300_.jpg?hash=b0b161f3904ed959a4bfc21944eee2ef" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/32654fb8caf8323db6486148fd28347b_resize=200,150_.jpg?hash=ecf87600635294d4a002f28b4e69e0fa" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/32654fb8caf8323db6486148fd28347b_resize=90,67_.jpg?hash=8973dcc98851b5bf6de901e5d5d705f6" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/32654fb8caf8323db6486148fd28347b_resize=54,54_.jpg?hash=5a9512a9306c8275aa843907e541227f" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/32654fb8caf8323db6486148fd28347b_resize=356,200_.jpg?hash=ff3b5f89436a322f76d711b27979d8dd" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/32654fb8caf8323db6486148fd28347b_resize=396,264_.jpg?hash=704e74a9c550ee06254612074139897b" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/32654fb8caf8323db6486148fd28347b_resize=200,150_.jpg?hash=ecf87600635294d4a002f28b4e69e0fa" height="150" width="200" />
+					<media:title type="html"><![CDATA[Říkali mu &quot;tropický Trump&quot;, teď jeho popularita padá. Bolsonaro čelí rozsáhlé kauze]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">9b5723ba8a0e11eaaabd0cc47ab5f122</guid>
+</item>
+	<item>
+	<title>Soukromé podnikání v Česku slaví 30 let. Šéfové firem hodnotí vývoj horší dvojkou</title>
+	<link>https://zpravy.aktualne.cz/ekonomika/sefove-firem-by-polistopadovemu-vyvoji-v-zemi-dali-horsi-dvo/r~c2267db68af311eab115ac1f6b220ee8/</link>
+	<category domain="https://zpravy.aktualne.cz/ekonomika/">Ekonomika</category>
+	<pubDate>
+					Thu, 30 Apr 2020 18:00:44 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>1. května uplyne třicet let od nabytí platnosti zákona o soukromém podnikání občanů. Ředitelé českých firem v průzkumu hodnotili porevoluční vývoj.</description>
+		<blackbox:extra shortTitle="Soukromé podnikání v Česku slaví 30 let. Šéfové firem hodnotí vývoj horší dvojkou" exportTitle="Soukromé podnikání v Česku slaví 30 let. Šéfové firem hodnotí vývoj horší dvojkou" bbxType="article" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/df66c38d91243551b500ab858ca18744_resize=400,300_.jpg?hash=1c384a92e0a5fd7c0de100a16be6bc8f" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/df66c38d91243551b500ab858ca18744_resize=200,150_.jpg?hash=ebe2f456484ad5b7cd00ea87a8da0563" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/df66c38d91243551b500ab858ca18744_resize=90,67_.jpg?hash=dbaeb588e7d012476258fda31df15de1" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/df66c38d91243551b500ab858ca18744_resize=54,54_.jpg?hash=084aed8fee51067e91cdf6c0d496e5b4" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/df66c38d91243551b500ab858ca18744_resize=356,200_.jpg?hash=49ed4911ee87a82d88d39fa160e36f03" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/df66c38d91243551b500ab858ca18744_resize=396,264_.jpg?hash=1b4957a8eaae5435ea2ed308d4b3beac" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/df66c38d91243551b500ab858ca18744_resize=200,150_.jpg?hash=ebe2f456484ad5b7cd00ea87a8da0563" height="150" width="200" />
+					<media:title type="html"><![CDATA[Soukromé podnikání v Česku slaví 30 let. Šéfové firem hodnotí vývoj horší dvojkou]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">c2267db68af311eab115ac1f6b220ee8</guid>
+</item>
+	<item>
+	<title>Roušky nebudou muset nosit děti ve školkách, umělci ani moderátoři v prázdném studiu</title>
+	<link>https://zpravy.aktualne.cz/domaci/rousky-nebudou-muset-nosit-deti-ve-skolkach-umelci-moderator/r~167aef8a8af611eab115ac1f6b220ee8/</link>
+	<category domain="https://zpravy.aktualne.cz/domaci/">Domácí</category>
+	<pubDate>
+					Thu, 30 Apr 2020 17:46:08 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Už dříve dostali výjimku řidiči veřejné dopravy v uzavřených kabinách, členové domácnosti jedoucí v jednom autě, autisté či děti do dvou let.</description>
+		<blackbox:extra shortTitle="Roušky nebudou muset nosit děti ve školkách, umělci ani moderátoři v prázdném studiu" exportTitle="Roušky nebudou muset nosit děti ve školkách, umělci ani moderátoři v prázdném studiu" bbxType="article" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/741f36d615373d61ac375b6d64083888_extract=0,686,1116,837_resize=400,300_.jpg?hash=558a27a98a5cf18fa7126909fe15319e" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/741f36d615373d61ac375b6d64083888_extract=0,686,1116,837_resize=200,150_.jpg?hash=8a52b54d32a9d4a9ecf12b582e7f697f" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/741f36d615373d61ac375b6d64083888_extract=0,686,1116,837_resize=90,67_.jpg?hash=271d6cba7dc32dc7416c5ebe4189199f" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/741f36d615373d61ac375b6d64083888_extract=0,906,837,837_resize=54,54_.jpg?hash=d83670668d4f1fceac8ee604c7182ad5" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/741f36d615373d61ac375b6d64083888_extract=0,366,1490,837_resize=356,200_.jpg?hash=866810558a77c201554ef577a9523390" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/741f36d615373d61ac375b6d64083888_extract=0,545,1257,837_resize=396,264_.jpg?hash=b2de2afb9844d3078e6c0d679cbbe02d" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/741f36d615373d61ac375b6d64083888_extract=0,686,1116,837_resize=200,150_.jpg?hash=8a52b54d32a9d4a9ecf12b582e7f697f" height="150" width="200" />
+					<media:title type="html"><![CDATA[Roušky nebudou muset nosit děti ve školkách, umělci ani moderátoři v prázdném studiu]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">167aef8a8af611eab115ac1f6b220ee8</guid>
+</item>
+	<item>
+	<title>Nejen ropa. I elektřina se v Evropě prodávala za zápornou cenu</title>
+	<link>https://zpravy.aktualne.cz/ekonomika/zaporna-cena-silove-elektriny/r~4ba4b99a8ae011ea9d470cc47ab5f122/</link>
+	<category domain="https://zpravy.aktualne.cz/ekonomika/">Ekonomika</category>
+	<pubDate>
+					Thu, 30 Apr 2020 16:50:39 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>O Velikonočním pondělí poprvé v historii nastala situace, kdy byla ve střední Evropě průměrná cena elektřiny za celý den záporná.</description>
+		<blackbox:extra shortTitle="Nejen ropa. I elektřina se v Evropě prodávala za zápornou cenu" exportTitle="Nejen ropa. I elektřina se v Evropě prodávala za zápornou cenu" bbxType="article" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/eefba7c3c15c39fd94909e64afff0fc1_resize=400,300_.jpg?hash=85619f568f54f1f145a35cdc6e24f81c" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/eefba7c3c15c39fd94909e64afff0fc1_resize=200,150_.jpg?hash=482d5e5377a672a05b66a3a9bd77ca78" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/eefba7c3c15c39fd94909e64afff0fc1_resize=90,67_.jpg?hash=e3725b7c1e861ebdd9fa93de1796a640" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/eefba7c3c15c39fd94909e64afff0fc1_resize=54,54_.jpg?hash=3fa4b65c825767788c17be66a4784494" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/eefba7c3c15c39fd94909e64afff0fc1_resize=356,200_.jpg?hash=4eb13fcb6dc37b4b25f2bcb2814ff8f9" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/eefba7c3c15c39fd94909e64afff0fc1_resize=396,264_.jpg?hash=f928433ec2cc7b34c5106449e66e74f8" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/eefba7c3c15c39fd94909e64afff0fc1_resize=200,150_.jpg?hash=482d5e5377a672a05b66a3a9bd77ca78" height="150" width="200" />
+					<media:title type="html"><![CDATA[Nejen ropa. I elektřina se v Evropě prodávala za zápornou cenu]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">4ba4b99a8ae011ea9d470cc47ab5f122</guid>
+</item>
+	<item>
+	<title>Podle tajných služeb USA koronavirus nevznikl uměle. Jeho rozšíření stále zkoumají</title>
+	<link>https://zpravy.aktualne.cz/zahranici/podle-tajnych-sluzeb-usa-koronavirus-nevznikl-umele-jeho-roz/r~287b148c8aef11eaa7deac1f6b220ee8/</link>
+	<category domain="https://zpravy.aktualne.cz/zahranici/">Zahraničí</category>
+	<pubDate>
+					Thu, 30 Apr 2020 16:31:30 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Zda je šíření viru následkem nehody v čínské laboratoři, tajné služby stále ještě zkoumají.</description>
+		<blackbox:extra shortTitle="Podle tajných služeb USA koronavirus nevznikl uměle. Jeho rozšíření stále zkoumají" exportTitle="Podle tajných služeb USA koronavirus nevznikl uměle. Jeho rozšíření stále zkoumají" bbxType="article" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/76fc022456763bff95a59543159b9f0b_resize=400,300_.jpg?hash=a89cc8c6245cac7b69e6ec90e8995cd6" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/76fc022456763bff95a59543159b9f0b_resize=200,150_.jpg?hash=f9bc3bb8d4f83231d10528e00207b6ec" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/76fc022456763bff95a59543159b9f0b_resize=90,67_.jpg?hash=2069c92ba20e83323aea3b7f1c5757d8" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/76fc022456763bff95a59543159b9f0b_resize=54,54_.jpg?hash=c5f2dbba1f7862b1cb61c6f35830cced" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/76fc022456763bff95a59543159b9f0b_resize=356,200_.jpg?hash=8fb2c8ef84a7b20591dc2db87576513b" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/76fc022456763bff95a59543159b9f0b_resize=396,264_.jpg?hash=90c372f717ad6cf4ea5662497a8cd249" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/76fc022456763bff95a59543159b9f0b_resize=200,150_.jpg?hash=f9bc3bb8d4f83231d10528e00207b6ec" height="150" width="200" />
+					<media:title type="html"><![CDATA[Podle tajných služeb USA koronavirus nevznikl uměle. Jeho rozšíření stále zkoumají]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">287b148c8aef11eaa7deac1f6b220ee8</guid>
+</item>
+	<item>
+	<title>Kim se asi schovává v karanténě u moře. Jeho rezidence je luxusnější než sídla králů</title>
+	<link>https://zpravy.aktualne.cz/zahranici/co-ukryva-luxusni-rezidence-kim-cong-una/r~2263c5948ac711eab408ac1f6b220ee8/</link>
+	<category domain="https://zpravy.aktualne.cz/zahranici/">Zahraničí</category>
+	<pubDate>
+					Thu, 30 Apr 2020 13:05:36 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Severokorejský diktátor se víc než dva týdny neobjevil na veřejnosti. Co ukrývá jeho okázalá vila, ve které se patrně schovává?</description>
+		<blackbox:extra shortTitle="Kim se asi schovává v karanténě u moře. Jeho rezidence je luxusnější než sídla králů" exportTitle="Kim se asi schovává v karanténě u moře. Jeho rezidence je luxusnější než sídla králů" bbxType="article" primaryObject="embed" duration="1:06" isVideo="true" videoType="bbxvideo" iframe="//zpravy.aktualne.cz/embed_iframe/zahranici/co-ukryva-luxusni-rezidence-kim-cong-una/r~2263c5948ac711eab408ac1f6b220ee8/" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/503076824aa6317e9544ee0cb57f5849_resize=400,300_.png?hash=8d0fc8be8232c09d638407b47ed000d0" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/503076824aa6317e9544ee0cb57f5849_resize=200,150_.png?hash=c3e910754cc282fcec362f71816d79cc" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/503076824aa6317e9544ee0cb57f5849_resize=90,67_.png?hash=ffd12214d08b30b03c046653fe5fc9aa" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/503076824aa6317e9544ee0cb57f5849_resize=54,54_.png?hash=42dac70eff215b49c284c11e4af13474" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/503076824aa6317e9544ee0cb57f5849_extract=0,0,1919,1080_resize=356,200_.png?hash=edebbc71a711c34416b7f7ff8bf0e42f" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/503076824aa6317e9544ee0cb57f5849_resize=396,264_.png?hash=d42e838987bfdea40d112683f933e35c" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/04be97cbf48f34228d0d9d38c4fade70_resize=200,150_.png?hash=c66b0f12e41515c9d06e6d22f05c7963" height="150" width="200" />
+					<media:title type="html"><![CDATA[Kim se asi schovává v karanténě u moře. Jeho rezidence je luxusnější než sídla králů]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">2263c5948ac711eab408ac1f6b220ee8</guid>
+</item>
+	<item>
+	<title>Škodováci se mohou nechat zdarma testovat na protilátky proti koronaviru</title>
+	<link>https://zpravy.aktualne.cz/ekonomika/auto/skodovaci-se-budou-moci-nechat-testovat-na-protilatky-proti/r~258da1008ac611ea9d470cc47ab5f122/</link>
+	<category domain="https://zpravy.aktualne.cz/ekonomika/auto/">Auto</category>
+	<pubDate>
+					Thu, 30 Apr 2020 11:43:29 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Od pondělí se ve všech třech závodech automobilky Škoda Auto opět pracuje. Firma zaměstnancům umožní nechat se zdarma otestovat na protilátky.</description>
+		<blackbox:extra shortTitle="Škodováci se mohou nechat zdarma testovat na protilátky proti koronaviru" exportTitle="Škodováci se mohou nechat zdarma testovat na protilátky proti koronaviru" bbxType="article" primaryObject="embed" duration="1:12" isVideo="true" videoType="bbxvideo" iframe="//zpravy.aktualne.cz/embed_iframe/ekonomika/auto/skodovaci-se-budou-moci-nechat-testovat-na-protilatky-proti/r~258da1008ac611ea9d470cc47ab5f122/" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/547902cb694634fb96b2b82c14cf8927_resize=400,300_.jpg?hash=60b6bd43f816f2e8592cd2e2612a519b" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/547902cb694634fb96b2b82c14cf8927_resize=200,150_.jpg?hash=8c7ec5b314446ff268885172587a961c" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/547902cb694634fb96b2b82c14cf8927_resize=90,67_.jpg?hash=b12e6b50114fb3cbeebcf26360fdb9d0" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/547902cb694634fb96b2b82c14cf8927_resize=54,54_.jpg?hash=83ad79d507b317b9ef21456da3b4b7e7" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/547902cb694634fb96b2b82c14cf8927_resize=356,200_.jpg?hash=c073aee8cb928b9c981a1d2348a0371e" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/547902cb694634fb96b2b82c14cf8927_resize=396,264_.jpg?hash=fc9b268fb122634844db2d9635d11d42" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/547902cb694634fb96b2b82c14cf8927_resize=200,150_.jpg?hash=8c7ec5b314446ff268885172587a961c" height="150" width="200" />
+					<media:title type="html"><![CDATA[Škodováci se mohou nechat zdarma testovat na protilátky proti koronaviru]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">258da1008ac611ea9d470cc47ab5f122</guid>
+</item>
+	<item>
+	<title>Ochranné obleky z Číny jsou příliš malé, zdravotníci se do nich mnohdy nevejdou</title>
+	<link>https://zpravy.aktualne.cz/domaci/ochranne-obleky-z-ciny-jsou-prilis-male/r~88d206ce8ac211eab1110cc47ab5f122/</link>
+	<category domain="https://zpravy.aktualne.cz/domaci/">Domácí</category>
+	<pubDate>
+					Thu, 30 Apr 2020 11:18:29 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Některé čínské firmy chtěly menší velikostí ušetřit materiál, jiné měly problém s číslováním.</description>
+		<blackbox:extra shortTitle="Ochranné obleky z Číny jsou příliš malé, zdravotníci se do nich mnohdy nevejdou" exportTitle="Ochranné obleky z Číny jsou příliš malé, zdravotníci se do nich mnohdy nevejdou" bbxType="article" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/006068ea7f1b3d9485b766a9ab29787a_resize=400,300_.jpg?hash=c4db1abaff7559453459a578c4db406f" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/006068ea7f1b3d9485b766a9ab29787a_resize=200,150_.jpg?hash=0edd7f3963786b9109faffdecddd7afc" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/006068ea7f1b3d9485b766a9ab29787a_resize=90,67_.jpg?hash=08c41b5cd96e80053a44b3a6b4f4b12d" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/006068ea7f1b3d9485b766a9ab29787a_resize=54,54_.jpg?hash=0092fe8262d7a8da73dfdaafa9d74281" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/006068ea7f1b3d9485b766a9ab29787a_resize=356,200_.jpg?hash=c74a6b824609be83aabb03af7e35f3b7" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/006068ea7f1b3d9485b766a9ab29787a_resize=396,264_.jpg?hash=fbe8dc6c2f2e84aec6ac6f2ce0b72c7b" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/006068ea7f1b3d9485b766a9ab29787a_resize=200,150_.jpg?hash=0edd7f3963786b9109faffdecddd7afc" height="150" width="200" />
+					<media:title type="html"><![CDATA[Ochranné obleky z Číny jsou příliš malé, zdravotníci se do nich mnohdy nevejdou]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">88d206ce8ac211eab1110cc47ab5f122</guid>
+</item>
+	<item>
+	<title>Ve Škodě už vyrábí, v kolínské TPCA se prodlužuje odstávka o další tři neděle</title>
+	<link>https://zpravy.aktualne.cz/ekonomika/auto/ve-skode-uz-vyrabi-v-kolinske-tpca-se-prodluzuje-odstavka-o/r~047614808ac011eab0f60cc47ab5f122/</link>
+	<category domain="https://zpravy.aktualne.cz/ekonomika/auto/">Auto</category>
+	<pubDate>
+					Thu, 30 Apr 2020 11:16:39 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Automobilka TPCA znovu prodloužila odstávku výroby v Kolíně kvůli koronaviru. Výroba by se měla obnovit 18. května.</description>
+		<blackbox:extra shortTitle="Ve Škodě už vyrábí, v kolínské TPCA se prodlužuje odstávka o další tři neděle" exportTitle="Ve Škodě už vyrábí, v kolínské TPCA se prodlužuje odstávka o další tři neděle" bbxType="article" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/ce8ad55481cb390cb066e032a4786c7c_resize=400,300_.jpg?hash=02d556d357037904512e4943ff7379e5" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/ce8ad55481cb390cb066e032a4786c7c_resize=200,150_.jpg?hash=0cc806e9afc4587d572e9e0fb4b4895e" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/ce8ad55481cb390cb066e032a4786c7c_resize=90,67_.jpg?hash=40dace5bc651e5ed830a1a5220aa5523" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/ce8ad55481cb390cb066e032a4786c7c_extract=0,176,533,533_resize=54,54_.jpg?hash=96448005ef17133ff8adb9485edd4f00" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/ce8ad55481cb390cb066e032a4786c7c_resize=356,200_.jpg?hash=451d67704be165b077e96f9d4d5e6897" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/ce8ad55481cb390cb066e032a4786c7c_resize=396,264_.jpg?hash=c0fa010ae187e395e4dace6cd486f16c" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/ce8ad55481cb390cb066e032a4786c7c_resize=200,150_.jpg?hash=0cc806e9afc4587d572e9e0fb4b4895e" height="150" width="200" />
+					<media:title type="html"><![CDATA[Ve Škodě už vyrábí, v kolínské TPCA se prodlužuje odstávka o další tři neděle]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">047614808ac011eab0f60cc47ab5f122</guid>
+</item>
+	<item>
+	<title>Testování bude efektivnější, když se zaměří hlavně na ohniska nákazy, plánuje Vojtěch</title>
+	<link>https://zpravy.aktualne.cz/domaci/vojtech-testovani-se-vice-zameri-na-ohniska-nakazy-bude-efek/r~7db9bf7a8ab811ea8972ac1f6b220ee8/</link>
+	<category domain="https://zpravy.aktualne.cz/domaci/">Domácí</category>
+	<pubDate>
+					Thu, 30 Apr 2020 10:47:21 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Rizikovými regiony, kde se nyní nákaza nejvíce šíří, je nyní například Domažlicko a Chebsko.</description>
+		<blackbox:extra shortTitle="Testování bude efektivnější, když se zaměří hlavně na ohniska nákazy, plánuje Vojtěch" exportTitle="Testování bude efektivnější, když se zaměří hlavně na ohniska nákazy, plánuje Vojtěch" bbxType="article" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/19e91ba0960e30cd92833c45a800a255_extract=0,197,1708,1280_resize=400,300_.jpg?hash=9ddd66dcf17b69b949cb613a367f441e" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/19e91ba0960e30cd92833c45a800a255_extract=0,197,1708,1280_resize=200,150_.jpg?hash=e6b88df38b17f93ac92b4257a9fb5d0e" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/19e91ba0960e30cd92833c45a800a255_extract=0,197,1708,1280_resize=90,67_.jpg?hash=ca2a681f10a320ec624dbef392cdc76d" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/19e91ba0960e30cd92833c45a800a255_extract=0,461,1280,1280_resize=54,54_.jpg?hash=e8352a14f302b149b88f7d16e9f3c880" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/19e91ba0960e30cd92833c45a800a255_extract=200,0,1920,1080_resize=356,200_.jpg?hash=47ee7ddaf7dda319c3ed59bdc15e39e7" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/19e91ba0960e30cd92833c45a800a255_resize=396,264_.jpg?hash=6906521bac23fc69aada3401b6a6a5ca" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/19e91ba0960e30cd92833c45a800a255_extract=0,197,1708,1280_resize=200,150_.jpg?hash=e6b88df38b17f93ac92b4257a9fb5d0e" height="150" width="200" />
+					<media:title type="html"><![CDATA[Testování bude efektivnější, když se zaměří hlavně na ohniska nákazy, plánuje Vojtěch]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">7db9bf7a8ab811ea8972ac1f6b220ee8</guid>
+</item>
+	<item>
+	<title>&quot;Vypadaly jako 200 let staré.&quot; Respirátory z Číny byly znečištěné, kraj je vrátí</title>
+	<link>https://zpravy.aktualne.cz/domaci/rousky-z-ciny-byly-znecistene-kraj-je-vrati-vnitru/r~68b67d8e8a3111eab408ac1f6b220ee8/</link>
+	<category domain="https://zpravy.aktualne.cz/domaci/">Domácí</category>
+	<pubDate>
+					Thu, 30 Apr 2020 09:49:18 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Respirátory dodalo ministerstvo vnitra a byly v originálním balení. Kraj po prověření žádné další závady nenašel.</description>
+		<blackbox:extra shortTitle="&quot;Vypadaly jako 200 let staré.&quot; Respirátory z Číny byly znečištěné, kraj je vrátí" exportTitle="&quot;Vypadaly jako 200 let staré.&quot; Respirátory z Číny byly znečištěné, kraj je vrátí" bbxType="article" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/2bb76b0192c132e0abbcb8c4b9e44d03_extract=0,120,1441,1080_resize=400,300_.jpg?hash=a74b44b9c2d0c59cfe9cb65cc8b73c95" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/2bb76b0192c132e0abbcb8c4b9e44d03_extract=0,120,1441,1080_resize=200,150_.jpg?hash=4cd2e33a645898f258bff9552375203a" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/2bb76b0192c132e0abbcb8c4b9e44d03_extract=0,120,1441,1080_resize=90,67_.jpg?hash=3b803a94631cc6c0747eb85b9496ad5d" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/2bb76b0192c132e0abbcb8c4b9e44d03_extract=0,297,1080,1080_resize=54,54_.jpg?hash=7441489e687215136e5db241d8a7acf8" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/2bb76b0192c132e0abbcb8c4b9e44d03_extract=0,0,1919,1080_resize=356,200_.jpg?hash=57493bdf6b3b3dfac6c676757c1d39e2" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/2bb76b0192c132e0abbcb8c4b9e44d03_extract=0,56,1620,1080_resize=396,264_.jpg?hash=5a46fbecae4c258bae6db873da5fc229" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/2bb76b0192c132e0abbcb8c4b9e44d03_extract=0,120,1441,1080_resize=200,150_.jpg?hash=4cd2e33a645898f258bff9552375203a" height="150" width="200" />
+					<media:title type="html"><![CDATA[&quot;Vypadaly jako 200 let staré.&quot; Respirátory z Číny byly znečištěné, kraj je vrátí]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">68b67d8e8a3111eab408ac1f6b220ee8</guid>
+</item>
+	<item>
+	<title>Lékař: Johnson měl těžký průběh nemoci kvůli nadváze, jeho kolegové  se vyléčili snáz</title>
+	<link>https://zpravy.aktualne.cz/zahranici/lekar-johnson-mel-tezky-prubeh-covidu-19-protoze-ma-nadvahu/r~32cd5ed48aa111ea9c800cc47ab5f122/</link>
+	<category domain="https://zpravy.aktualne.cz/zahranici/">Zahraničí</category>
+	<pubDate>
+					Thu, 30 Apr 2020 07:27:49 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Řekl to kardiolog Aseem Malhotra, který rovněž upozornil, že hubenější členové britského kabinetu se z nemoci covid-19 vyléčili rychleji.</description>
+		<blackbox:extra shortTitle="Lékař: Johnson měl těžký průběh nemoci kvůli nadváze, jeho kolegové  se vyléčili snáz" exportTitle="Lékař: Johnson měl těžký průběh nemoci kvůli nadváze, jeho kolegové  se vyléčili snáz" bbxType="article" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/fdb0c67563e5384a928d406b88e15660_resize=400,300_.jpg?hash=795e93c1f616a333675272d82c9af46e" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/fdb0c67563e5384a928d406b88e15660_resize=200,150_.jpg?hash=3df92264177d15735ed3ae36e05f5362" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/fdb0c67563e5384a928d406b88e15660_resize=90,67_.jpg?hash=9eb5223c57e324fc3b18203133ad0249" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/fdb0c67563e5384a928d406b88e15660_resize=54,54_.jpg?hash=3ff53d8e0de76636f4393fd74028886f" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/fdb0c67563e5384a928d406b88e15660_extract=151,0,1959,1102_resize=356,200_.jpg?hash=8ac5f992f8c4f73f6aa4cef96174ba8b" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/fdb0c67563e5384a928d406b88e15660_resize=396,264_.jpg?hash=42e0e086a0d47bee93daef53d34dafe7" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/fdb0c67563e5384a928d406b88e15660_resize=200,150_.jpg?hash=3df92264177d15735ed3ae36e05f5362" height="150" width="200" />
+					<media:title type="html"><![CDATA[Lékař: Johnson měl těžký průběh nemoci kvůli nadváze, jeho kolegové  se vyléčili snáz]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">32cd5ed48aa111ea9c800cc47ab5f122</guid>
+</item>
+	<item>
+	<title>Byznys s rozvozem jídla má zlaté časy. Třetinu jim dáme na provizi, naříkají podniky</title>
+	<link>https://zpravy.aktualne.cz/ekonomika/rozvozy-restaurace-koronavirus/r~4ddb5f5c891e11eab115ac1f6b220ee8/</link>
+	<category domain="https://zpravy.aktualne.cz/ekonomika/">Ekonomika</category>
+	<pubDate>
+					Thu, 30 Apr 2020 06:31:08 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Rozvozci jídla si i v koronakrizi účtují značné provize - a to často jak od zákazníka, tak i od restaurace. Má to ale podle nich svůj smysl.</description>
+		<blackbox:extra shortTitle="Byznys s rozvozem jídla má zlaté časy. Třetinu jim dáme na provizi, naříkají podniky" exportTitle="Byznys s rozvozem jídla má zlaté časy. Třetinu jim dáme na provizi, naříkají podniky" bbxType="article" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/3d2cf6ba71433e8db5a0ac3c7af9cc33_resize=400,300_.jpg?hash=37888beacb62b718a3ba03e7ad35cc93" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/3d2cf6ba71433e8db5a0ac3c7af9cc33_resize=200,150_.jpg?hash=190bad32c9fbdfc4dc1cca522d99702d" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/3d2cf6ba71433e8db5a0ac3c7af9cc33_resize=90,67_.jpg?hash=708984e1069d7c1e915fbbe276bf0db0" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/3d2cf6ba71433e8db5a0ac3c7af9cc33_resize=54,54_.jpg?hash=cfdf4f2a17635ae34a0591ef338c61b0" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/3d2cf6ba71433e8db5a0ac3c7af9cc33_resize=356,200_.jpg?hash=ad0957ce3782fc42787ed7a72543a3cd" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/3d2cf6ba71433e8db5a0ac3c7af9cc33_resize=396,264_.jpg?hash=07fdef4695ba6ee41bda768857f8158a" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/3d2cf6ba71433e8db5a0ac3c7af9cc33_resize=200,150_.jpg?hash=190bad32c9fbdfc4dc1cca522d99702d" height="150" width="200" />
+					<media:title type="html"><![CDATA[Byznys s rozvozem jídla má zlaté časy. Třetinu jim dáme na provizi, naříkají podniky]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">4ddb5f5c891e11eab115ac1f6b220ee8</guid>
+</item>
+	<item>
+	<title>Koronavirus na mapě světa: Kde je nejvíc nemocných a jak se nákaza šíří?</title>
+	<link>https://zpravy.aktualne.cz/zahranici/koronavirus-na-mape-sveta-kde-je-nejvic-nemocnych/r~3a5ccb9a620011eaa7deac1f6b220ee8/</link>
+	<category domain="https://zpravy.aktualne.cz/zahranici/">Zahraničí</category>
+	<pubDate>
+					Thu, 30 Apr 2020 05:20:17 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Ohniskem nákazy koronavirem se po Číně staly některé státy Evropy a USA. Podívejte se na data za jednotlivé země.</description>
+		<blackbox:extra shortTitle="Koronavirus na mapě světa: Kde je nejvíc nemocných a jak se nákaza šíří?" exportTitle="Koronavirus na mapě světa: Kde je nejvíc nemocných a jak se nákaza šíří?" bbxType="graphics" subtype="graphicsexternal" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/508e676e3d9130f5b220c3af4a31d526_extract=0,0,1016,763_resize=400,300_.jpg?hash=4fe71130f5b2322e3c556af8a8e30b37" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/508e676e3d9130f5b220c3af4a31d526_extract=0,0,1016,763_resize=200,150_.jpg?hash=11bd8883218b0b1d8ed7f2a1c268eceb" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/508e676e3d9130f5b220c3af4a31d526_extract=0,0,1016,763_resize=90,67_.jpg?hash=efb36f34e22b70b9cad9d5298fa7286c" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/508e676e3d9130f5b220c3af4a31d526_extract=0,177,839,839_resize=54,54_.jpg?hash=a51cecba72ee0e0525b06b1cb9940b72" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/508e676e3d9130f5b220c3af4a31d526_extract=0,0,1016,572_resize=356,200_.jpg?hash=6a23439258cb153b0fcceb34d7b272ef" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/508e676e3d9130f5b220c3af4a31d526_extract=0,0,1016,677_resize=396,264_.jpg?hash=d904db28de519643840d8857ffd5caa6" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/508e676e3d9130f5b220c3af4a31d526_extract=0,0,1016,763_resize=200,150_.jpg?hash=11bd8883218b0b1d8ed7f2a1c268eceb" height="150" width="200" />
+					<media:title type="html"><![CDATA[Koronavirus na mapě světa: Kde je nejvíc nemocných a jak se nákaza šíří?]]></media:title>
+	</media:group>
+	<guid isPermaLink="false">3a5ccb9a620011eaa7deac1f6b220ee8</guid>
+</item>
+	<item>
+	<title>Minář se vrátil na Letnou: Přišel jsem se projít, abych rozdýchal počínání vlády</title>
+	<link>https://zpravy.aktualne.cz/domaci/minar-se-vratil-na-letnou-s-transparenty-proti-babisove-vlad/r~d18c0de68a0f11ea80e60cc47ab5f122/</link>
+	<category domain="https://zpravy.aktualne.cz/domaci/">Domácí</category>
+	<pubDate>
+					Wed, 29 Apr 2020 19:10:18 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Nejdůležitější je otázka, jestli jsme se dobře připravili na to, co přijde po uvolnění nynějších opatření, řekl Aktuálně.cz Minář.</description>
+		<blackbox:extra shortTitle="Minář se vrátil na Letnou: Přišel jsem se projít, abych rozdýchal počínání vlády" exportTitle="Minář se vrátil na Letnou: Přišel jsem se projít, abych rozdýchal počínání vlády" bbxType="article" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/68f5e26266ff361d8c724f91cdd8831f_resize=400,300_.jpg?hash=318c0908085034df6f15cff265999012" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/68f5e26266ff361d8c724f91cdd8831f_resize=200,150_.jpg?hash=d911f7b1d422d75508835ee1640929fd" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/68f5e26266ff361d8c724f91cdd8831f_resize=90,67_.jpg?hash=4b9a72cc6bc9dc14e35e234c3af08bd2" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/68f5e26266ff361d8c724f91cdd8831f_resize=54,54_.jpg?hash=a761cf5bff1d5d577abf1b29796afcc1" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/68f5e26266ff361d8c724f91cdd8831f_extract=99,0,1960,1104_resize=356,200_.jpg?hash=63d96bdb023abd6b50b2ac0ad88620ee" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/68f5e26266ff361d8c724f91cdd8831f_extract=0,3,1957,1305_resize=396,264_.jpg?hash=ea4ded5bb7ef2f9d8ab592cd113973c2" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/68f5e26266ff361d8c724f91cdd8831f_resize=200,150_.jpg?hash=d911f7b1d422d75508835ee1640929fd" height="150" width="200" />
+					<media:title type="html"><![CDATA[Minář se vrátil na Letnou: Přišel jsem se projít, abych rozdýchal počínání vlády]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">d18c0de68a0f11ea80e60cc47ab5f122</guid>
+</item>
+	<item>
+	<title>Respirátory dovezené z Číny netěsní, musí se k obličeji přilepit, zjistili vědci</title>
+	<link>https://zpravy.aktualne.cz/domaci/cinske-respiratory-netesni-musi-se-k-obliceji-prilepit/r~10fdcbb48a2d11ea9c800cc47ab5f122/</link>
+	<category domain="https://zpravy.aktualne.cz/domaci/">Domácí</category>
+	<pubDate>
+					Wed, 29 Apr 2020 17:41:51 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Důvodem, proč čínské masky nesedí na obličeji Evropanů, je podle vědců rozdílná anatomie obličejů.</description>
+		<blackbox:extra shortTitle="Respirátory dovezené z Číny netěsní, musí se k obličeji přilepit, zjistili vědci" exportTitle="Respirátory dovezené z Číny netěsní, musí se k obličeji přilepit, zjistili vědci" bbxType="article" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/7e7bb3feb14532e7be5078124be7768c_resize=400,300_.jpg?hash=ab5c3257db4c9052bb093c7f556480ad" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/7e7bb3feb14532e7be5078124be7768c_resize=200,150_.jpg?hash=12ec0558853783ade032dee953388983" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/7e7bb3feb14532e7be5078124be7768c_resize=90,67_.jpg?hash=7953144d0906f18d9dd6b54a364b8ea7" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/7e7bb3feb14532e7be5078124be7768c_resize=54,54_.jpg?hash=2ccb5e8c7a104eb9d880b9135e9378d9" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/7e7bb3feb14532e7be5078124be7768c_resize=356,200_.jpg?hash=f3f74f684dc6dfedef80cbe39729df89" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/7e7bb3feb14532e7be5078124be7768c_resize=396,264_.jpg?hash=d383f4239863a4f3418e3880d8369b37" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/7e7bb3feb14532e7be5078124be7768c_resize=200,150_.jpg?hash=12ec0558853783ade032dee953388983" height="150" width="200" />
+					<media:title type="html"><![CDATA[Respirátory dovezené z Číny netěsní, musí se k obličeji přilepit, zjistili vědci]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">10fdcbb48a2d11ea9c800cc47ab5f122</guid>
+</item>
+	<item>
+	<title>Navrhněte v EU vyšetřování Číny za pandemii, žádali poslanci Babiše. Ten je ignoroval</title>
+	<link>https://zpravy.aktualne.cz/zahranici/poslanci-tlaci-na-babise-aby-v-eu-prosadil-vysetrovani-pande/r~8e9ce7268a1911eab1110cc47ab5f122/</link>
+	<category domain="https://zpravy.aktualne.cz/zahranici/">Zahraničí</category>
+	<pubDate>
+					Wed, 29 Apr 2020 17:32:37 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>K nezávislému vyšetřování v minulých dnech vyzval i americký prezident Donald Trump nebo australský premiér Scott Morrison.</description>
+		<blackbox:extra shortTitle="Navrhněte v EU vyšetřování Číny za pandemii, žádali poslanci Babiše. Ten je ignoroval" exportTitle="Navrhněte v EU vyšetřování Číny za pandemii, žádali poslanci Babiše. Ten je ignoroval" bbxType="article" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/2176996b1f5a386d97c508288b312ce1_extract=95,644,849,637_resize=400,300_.jpg?hash=223d35afe504ef1b91b9993fc24ace5b" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/2176996b1f5a386d97c508288b312ce1_extract=95,644,849,637_resize=200,150_.jpg?hash=3831032a929ae4d1dcda933390b7ccd5" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/2176996b1f5a386d97c508288b312ce1_extract=95,644,849,637_resize=90,67_.jpg?hash=a54d3964571eed1124d9a311e8105c7d" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/2176996b1f5a386d97c508288b312ce1_extract=91,812,639,639_resize=54,54_.jpg?hash=dfb3923ffb7c5b8fb4caf313c7e3c5db" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/2176996b1f5a386d97c508288b312ce1_extract=65,406,1214,683_resize=356,200_.jpg?hash=767e775a527a89af6b113ebbd5f78b9c" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/2176996b1f5a386d97c508288b312ce1_extract=93,577,935,624_resize=396,264_.jpg?hash=093a4f694e2a881f50237ff3c5ea57a8" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/2176996b1f5a386d97c508288b312ce1_extract=95,644,849,637_resize=200,150_.jpg?hash=3831032a929ae4d1dcda933390b7ccd5" height="150" width="200" />
+					<media:title type="html"><![CDATA[Navrhněte v EU vyšetřování Číny za pandemii, žádali poslanci Babiše. Ten je ignoroval]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">8e9ce7268a1911eab1110cc47ab5f122</guid>
+</item>
+	<item>
+	<title>Šéf lidovců podal trestní oznámení na Vojtěchovo ministerstvo kvůli nákupu pomůcek</title>
+	<link>https://zpravy.aktualne.cz/domaci/jurecka-podal-trestni-oznameni-kvuli-nakupum-mz/r~db6391b28a2911eaaabd0cc47ab5f122/</link>
+	<category domain="https://zpravy.aktualne.cz/domaci/">Domácí</category>
+	<pubDate>
+					Wed, 29 Apr 2020 17:13:15 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Marian Jurečka se domnívá, že resort zdravotnictví nesplnil zákonnou povinnost plnit úkoly nejhospodárnějším způsobem.</description>
+		<blackbox:extra shortTitle="Šéf lidovců podal trestní oznámení na Vojtěchovo ministerstvo kvůli nákupu pomůcek" exportTitle="Šéf lidovců podal trestní oznámení na Vojtěchovo ministerstvo kvůli nákupu pomůcek" bbxType="article" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/7078448e3919383f89f520c9b0326107_extract=175,863,663,497_resize=400,300_.jpg?hash=370565886f991debb6de6db7b8376183" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/7078448e3919383f89f520c9b0326107_extract=175,863,663,497_resize=200,150_.jpg?hash=abf3018dede4ca7e867486ddaf79d4a5" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/7078448e3919383f89f520c9b0326107_extract=175,863,663,497_resize=90,67_.jpg?hash=71c8c2def6a331b206c449c181525502" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/7078448e3919383f89f520c9b0326107_extract=175,982,427,427_resize=54,54_.jpg?hash=df3ee3431ccf72d2dfbab6dc0cc9b863" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/7078448e3919383f89f520c9b0326107_extract=166,756,887,499_resize=356,200_.jpg?hash=3726badeb7d56a8bf4411c38eba8b557" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/7078448e3919383f89f520c9b0326107_extract=168,835,763,509_resize=396,264_.jpg?hash=8f5b785a3f755fed28aac8d05ca9393a" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/7078448e3919383f89f520c9b0326107_extract=175,863,663,497_resize=200,150_.jpg?hash=abf3018dede4ca7e867486ddaf79d4a5" height="150" width="200" />
+					<media:title type="html"><![CDATA[Šéf lidovců podal trestní oznámení na Vojtěchovo ministerstvo kvůli nákupu pomůcek]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">db6391b28a2911eaaabd0cc47ab5f122</guid>
+</item>
+	<item>
+	<title>Ministerstvo by po posílení pravomocí mohlo samo omezovat obchody, veřejné akce i MHD</title>
+	<link>https://zpravy.aktualne.cz/domaci/ministerstvo-by-po-posileni-pravomoci-mohlo-omezovat-obchody/r~febb7a6c8a2411ea9d470cc47ab5f122/</link>
+	<category domain="https://zpravy.aktualne.cz/domaci/">Domácí</category>
+	<pubDate>
+					Wed, 29 Apr 2020 17:02:14 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Chystaný návrh novely zákona o ochraně veřejného zdraví dává ministerstvu zdravotnictví nové pravomoci. Opozice je proti.</description>
+		<blackbox:extra shortTitle="Ministerstvo by po posílení pravomocí mohlo samo omezovat obchody, veřejné akce i MHD" exportTitle="Ministerstvo by po posílení pravomocí mohlo samo omezovat obchody, veřejné akce i MHD" bbxType="article" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/02e3ba368c7a361dbbad02d352938bac_resize=400,300_.jpg?hash=6b152ff567609c1d5b81568550cfc14f" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/02e3ba368c7a361dbbad02d352938bac_resize=200,150_.jpg?hash=a707e2de395f475111cd112c4754a8a2" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/02e3ba368c7a361dbbad02d352938bac_resize=90,67_.jpg?hash=755e448bd65415fec8237b51ec2626ea" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/02e3ba368c7a361dbbad02d352938bac_resize=54,54_.jpg?hash=a24f52eec54734a7a3b6d407f8a90398" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/02e3ba368c7a361dbbad02d352938bac_resize=356,200_.jpg?hash=deb772ba2f67f446d9561bb963b29862" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/02e3ba368c7a361dbbad02d352938bac_resize=396,264_.jpg?hash=ebdb40e0ea5d202e21ded37d9b6c2bd9" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/02e3ba368c7a361dbbad02d352938bac_resize=200,150_.jpg?hash=a707e2de395f475111cd112c4754a8a2" height="150" width="200" />
+					<media:title type="html"><![CDATA[Ministerstvo by po posílení pravomocí mohlo samo omezovat obchody, veřejné akce i MHD]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">febb7a6c8a2411ea9d470cc47ab5f122</guid>
+</item>
+	<item>
+	<title>Boeing propustí kolem 16 tisíc lidí. Stejně jako Airbus hlásí velkou finanční ztrátu</title>
+	<link>https://zpravy.aktualne.cz/ekonomika/boeing/r~f3fa3ee08a1711ea9d470cc47ab5f122/</link>
+	<category domain="https://zpravy.aktualne.cz/ekonomika/">Ekonomika</category>
+	<pubDate>
+					Wed, 29 Apr 2020 16:09:08 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Americký výrobce letecké techniky Boeing hodlá zrušit asi deset procent pracovních míst, závažně se ho dotkla koronavirová krize.</description>
+		<blackbox:extra shortTitle="Boeing propustí kolem 16 tisíc lidí. Stejně jako Airbus hlásí velkou finanční ztrátu" exportTitle="Boeing propustí kolem 16 tisíc lidí. Stejně jako Airbus hlásí velkou finanční ztrátu" bbxType="article" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/fa94b82233d93c5e9653b4cc6e2b760d_extract=126,243,1483,1111_resize=400,300_.jpg?hash=14c6bae84ead3bff53e1f7f73da91e4b" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/fa94b82233d93c5e9653b4cc6e2b760d_extract=126,243,1483,1111_resize=200,150_.jpg?hash=05b391ee285d927b6c0c937cf6db9c5c" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/fa94b82233d93c5e9653b4cc6e2b760d_extract=126,243,1483,1111_resize=90,67_.jpg?hash=e1c33506d5f8fe1c4b13dc86ae6f9cad" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/fa94b82233d93c5e9653b4cc6e2b760d_extract=0,340,1305,1305_resize=54,54_.jpg?hash=9dd1fc725f6421a8954fdc61d3246387" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/fa94b82233d93c5e9653b4cc6e2b760d_extract=230,225,1537,865_resize=356,200_.jpg?hash=51a4d5ad450bef8a30ed316d5b00f0fb" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/fa94b82233d93c5e9653b4cc6e2b760d_extract=157,214,1545,1030_resize=396,264_.jpg?hash=567b5ec57d7eebdfad0f6ecb66c726ca" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/fa94b82233d93c5e9653b4cc6e2b760d_extract=126,243,1483,1111_resize=200,150_.jpg?hash=05b391ee285d927b6c0c937cf6db9c5c" height="150" width="200" />
+					<media:title type="html"><![CDATA[Boeing propustí kolem 16 tisíc lidí. Stejně jako Airbus hlásí velkou finanční ztrátu]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">f3fa3ee08a1711ea9d470cc47ab5f122</guid>
+</item>
+	<item>
+	<title>Přestupky proti nezákonně vydaným opatřením zřejmě zůstanou bez trestu, řekl Hamáček</title>
+	<link>https://zpravy.aktualne.cz/domaci/rizeni-kvuli-prestupkum-za-opatreni-se-kvuli-rozhodnuti-soud/r~a212bf9e8a1c11eaaabd0cc47ab5f122/</link>
+	<category domain="https://zpravy.aktualne.cz/domaci/">Domácí</category>
+	<pubDate>
+					Wed, 29 Apr 2020 16:01:06 +0200			</pubDate>
+
+		<blackbox:recommendStatus>
+			<blackbox:expireDate></blackbox:expireDate>
+			<blackbox:status>NOT_SET</blackbox:status>
+			<blackbox:importance>0</blackbox:importance>
+		</blackbox:recommendStatus>
+		<description>Delikty spáchané v době od 23. března do 27. dubna nebude podle právníků ministerstva vnitra možné trestat.</description>
+		<blackbox:extra shortTitle="Přestupky proti nezákonně vydaným opatřením zřejmě zůstanou bez trestu, řekl Hamáček" exportTitle="Přestupky proti nezákonně vydaným opatřením zřejmě zůstanou bez trestu, řekl Hamáček" bbxType="article" primaryObject="photo" isVideo="false" />
+
+			<media:group>
+
+						<media:content url="https://cdn.xsd.cz/resize/40364ec064973abd8d674ccebc09daf8_extract=104,292,1026,769_resize=400,300_.jpg?hash=476176a0162d50b61f62396d32527266" type="image/jpeg" height="300" width="400" />
+					<media:content url="https://cdn.xsd.cz/resize/40364ec064973abd8d674ccebc09daf8_extract=104,292,1026,769_resize=200,150_.jpg?hash=a0c264c9cdb2c2144808de8c05651256" type="image/jpeg" height="150" width="200" />
+					<media:content url="https://cdn.xsd.cz/resize/40364ec064973abd8d674ccebc09daf8_extract=104,292,1026,769_resize=90,67_.jpg?hash=b6c30272c312e139e94fec236d2523a8" type="image/jpeg" height="67" width="90" />
+					<media:content url="https://cdn.xsd.cz/resize/40364ec064973abd8d674ccebc09daf8_extract=110,415,702,702_resize=54,54_.jpg?hash=9a25e603ead17f59b3e6c2083df6de7d" type="image/jpeg" height="54" width="54" />
+					<media:content url="https://cdn.xsd.cz/resize/40364ec064973abd8d674ccebc09daf8_extract=140,259,1216,685_resize=356,200_.jpg?hash=9a1ee9a8b324a6491e2254b72ae46f14" type="image/jpeg" height="200" width="356" />
+					<media:content url="https://cdn.xsd.cz/resize/40364ec064973abd8d674ccebc09daf8_extract=86,270,1212,808_resize=396,264_.jpg?hash=7530ce78bad5d5d2e1dda99959e4de82" type="image/jpeg" height="264" width="396" />
+									<media:thumbnail url="https://cdn.xsd.cz/resize/40364ec064973abd8d674ccebc09daf8_extract=104,292,1026,769_resize=200,150_.jpg?hash=a0c264c9cdb2c2144808de8c05651256" height="150" width="200" />
+					<media:title type="html"><![CDATA[Přestupky proti nezákonně vydaným opatřením zřejmě zůstanou bez trestu, řekl Hamáček]]></media:title>
+	</media:group>
+
+	<guid isPermaLink="false">a212bf9e8a1c11eaaabd0cc47ab5f122</guid>
+</item>
+	</channel>
+</rss>

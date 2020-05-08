@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <language>cs</language>
+        <title>Zprávy - TN.cz</title>
+        <description>Aktuální události z České republiky i ze světa</description>
+        <pubDate>Fri, 01 May 2020 11:29:29 +0200</pubDate>
+        <generator>Zend_Feed_Writer 1.12.0 (http://framework.zend.com)</generator>
+        <link>https://tn.nova.cz</link>
+        <copyright>© TV Nova s.r.o.</copyright>
+        <atom:link rel="self" type="application/rss+xml" href="https://tn.nova.cz/rss?headlines=1"/>
+        <ttl>60</ttl>
+        <item>
+            <title>Kadeřník s rouškou i štítem, v kině ob sedadlo. PŘEHLED nových pravidel</title>
+            <description>
+                <![CDATA[Vláda představila soubor pravidel pro provozovatele a organizátory, kterých se týká nadcházející vlna uvolnění opatření. Kadeřníci budou muset mít dvojí ochranu dýchacích cest, kina zase musí zajistit rozestupy mezi diváky. Další nařízení najdete v našem přehledu. Kadeřnictví a jiné salony
+
+Kadeřníci a holiči budou muset mít při kontaktu se zákazníky dvojí ochranu dýchacích cest, to znamená roušku i ochranný štít. Poté, co klient obslouží, si musí vydezinfikovat ruce. Zároveň musí používat]]>
+            </description>
+            <pubDate>Fri, 01 May 2020 09:39:00 +0200</pubDate>
+            <link>https://tn.nova.cz/clanek/kadernik-s-rouskou-i-stitem-v-kine-ob-sedadlo-prehled-novych-pravidel.html</link>
+            <guid>https://tn.nova.cz/clanek/kadernik-s-rouskou-i-stitem-v-kine-ob-sedadlo-prehled-novych-pravidel.html</guid>
+            <author>TN.cz</author>
+            <category domain="http://tn.nova.cz/tema/27103-koronavirus">
+                <![CDATA[koronavirus]]>
+            </category>
+            <category>
+                <![CDATA[Covid-19]]>
+            </category>
+            <category>
+                <![CDATA[uvolnění opatření]]>
+            </category>
+            <category>
+                <![CDATA[opatření]]>
+            </category>
+            <category>
+                <![CDATA[pravidla]]>
+            </category>
+            <category>
+                <![CDATA[nařízení]]>
+            </category>
+            <category>
+                <![CDATA[rozestup]]>
+            </category>
+            <category>
+                <![CDATA[roušky]]>
+            </category>
+            <category>
+                <![CDATA[restaurace]]>
+            </category>
+            <category>
+                <![CDATA[školy]]>
+            </category>
+            <media:content medium="image" url="https://img.cz.prg.cmestatic.com/media/images/600xX/Apr2020/2377183.jpg?d41d"/>
+            <media:title type="html">
+                <![CDATA[Vláda představila podrobný scénář na následující dva měsíce]]>
+            </media:title>
+            <media:credit>
+                <![CDATA[TV Nova]]>
+            </media:credit>
+            <dc:creator>TN.cz</dc:creator>
+            <atom:modified>Fri, 01 May 2020 09:39:00 +0200</atom:modified>
+            <dc:subject>Uvolnění od 11. května</dc:subject>
+        </item>
+    </channel>
+</rss>
