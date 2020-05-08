@@ -1,13 +1,17 @@
+interface Node {
+  [key: string]: string|Node[]
+}
+
+interface Container {
+  [key: string]: Array<Node>
+}
+
 const isElementNode = (type: number) => type === 1
 
 const hasChildNodes = (lengthOfChildNodes: number) => lengthOfChildNodes > 1
 
-interface Element {
-  [key: string]: string|Element[]
-}
-
 const extractNode = (node: ChildNode) => {
-  const element: Element = (node.textContent) ? {textContent: node.textContent} : {}
+  const element: Node = (node.textContent) ? {textContent: node.textContent} : {}
 
   // @ts-ignore, attributes are missing in ts
   for (const attr of node.attributes) {
@@ -17,13 +21,9 @@ const extractNode = (node: ChildNode) => {
   return element
 }
 
-interface Container {
-  [key: string]: Array<Element>
-}
-
 const createContainer = (): Container => ({})
 
-const addProxy = (container: Container) => {
+const addEmptyArrayProxy = (container: Container) => {
   return new Proxy(container, {
     get: (target, property: string) => {
       if (!Array.isArray(target[property])) {
@@ -36,11 +36,14 @@ const addProxy = (container: Container) => {
 
 const parsedDomToJson = (nodes: NodeListOf<ChildNode>) => {
   const container = createContainer()
-  const containerWithProxy = addProxy(container)
+  const containerWithProxy = addEmptyArrayProxy(container)
 
   for (const node of nodes) {
     if (isElementNode(node.nodeType)) {
-      const element = hasChildNodes(node.childNodes.length) ? parsedDomToJson(node.childNodes) : extractNode(node)
+      const element = hasChildNodes(node.childNodes.length) ?
+        parsedDomToJson(node.childNodes) :
+        extractNode(node)
+
       containerWithProxy[node.nodeName].push(element)
     }
   }
@@ -48,16 +51,14 @@ const parsedDomToJson = (nodes: NodeListOf<ChildNode>) => {
   return container
 }
 
-export const parser = (domParser: DOMParser) => {
-  return (rss: string) => {
-    const dom = domParser.parseFromString(rss, 'text/xml')
-    const channels = dom.getElementsByTagName('channel')
+export const parser = (domParser: DOMParser) => (rss: string) => {
+  const dom = domParser.parseFromString(rss, 'text/xml')
+  const channels = dom.getElementsByTagName('channel')
 
-    const jsonStructure = parsedDomToJson(channels[0].childNodes)
+  const jsonStructure = parsedDomToJson(channels[0].childNodes)
 
-    // TD map json structure to simple json rss
-    console.log(jsonStructure)
-  }
+  // TD map json structure to simple json rss
+  console.log(jsonStructure)
 }
 
 export const createParser = (DOMParser: DOMParser) => {
