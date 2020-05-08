@@ -6,7 +6,9 @@ function main () {
   const rss = fs.readFileSync(__dirname + '/__tests__/mocks/tn_cz.rss').toString()
 
   const parser = createParser(DOMParser as any)
-  const feed = parser(rss)
+  const feed = parser(rss, {
+    link: (node: any) => ({link: node[0].textContent})
+  })
 }
 
 main()
