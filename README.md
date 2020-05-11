@@ -1,17 +1,16 @@
 # Extensible rss to json
 
 ```
-const parser = require('extensible-rss-to-json')
-const parser = require('extensible-rss-to-json').forNode
 import parser from 'extensible-rss-to-json'
 
-const json = parser('<xml>...</xml>', {
-    channelOptions: {
-        
-    },
-    itemOptions: {
-        
-    }
+const parser = createParser()
+const feed = parser(rss, {
+    image: (nodes) => ({
+        image: {
+            title: nodes[0].title[0].textContent,
+            url: nodes[0].url[0].textContent
+        }
+    })
 })
 ```
 
