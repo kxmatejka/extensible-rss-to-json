@@ -1,9 +1,5 @@
 interface Node {
-  [key: string]: string|Node[]
-}
-
-interface Container {
-  [key: string]: Node[]
+  [key: string]: any
 }
 
 const isNodeElement = (node: ChildNode) => node.nodeType === 1
@@ -21,9 +17,9 @@ const extractNode = (node: ChildNode) => {
   return element
 }
 
-const createContainer = (): Container => ({})
+const createContainer = (): Node => ({})
 
-const addEmptyArrayProxy = (container: Container) => {
+const addEmptyArrayProxy = (container: Node) => {
   return new Proxy(container, {
     get: (target, property: string) => {
       if (!Array.isArray(target[property])) {

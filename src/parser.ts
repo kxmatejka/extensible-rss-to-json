@@ -1,39 +1,46 @@
 import {parsedDomToJson} from './parsed-dom-to-json'
 
 interface Node {
-  [key: string]: string | Node[]
+  [key: string]: any
 }
 
-const standardParser: any = {
-  title: (node: Node[]) => ({
-    title: node[0].textContent
+interface Parser {
+  [key: string]: (nodes: Node[]) => object
+}
+
+const standardParser: Parser = {
+  title: (nodes: Node[]) => ({
+    title: nodes[0].textContent
   }),
-  item: (node: Node[]) => ({
-    items: node.map(n => ({
-      // @ts-ignore
-      title: n.title[0].textContent
+  link: (nodes: Node[]) => ({
+    link: nodes[0].textContent
+  }),
+  description: (nodes: Node[]) => ({
+    description: nodes[0].textContent
+  }),
+  item: (nodes: Node[]) => ({
+    items: nodes.map(node => ({
+      title: node.title[0].textContent,
+      description: node.description[0].textContent,
     }))
   })
 }
 
-export const parser = (domParser: DOMParser) => (rss: string, customParser = {}) => {
+export const parser = (domParser: DOMParser) => (rss: string, customParser: Parser = {}) => {
   const dom = domParser.parseFromString(rss, 'text/xml')
   const channels = dom.getElementsByTagName('channel')
-
   const jsonStructure = parsedDomToJson(channels[0].childNodes)
-
   const mergedParsers = Object.assign({}, standardParser, customParser)
-
   const result: any = {}
 
   for (const key in mergedParsers) {
     if (jsonStructure.hasOwnProperty(key)) {
-      let p = mergedParsers[key]
-      Object.assign(result, p(jsonStructure[key]))
+      const parserFunction = mergedParsers[key]
+      Object.assign(result, parserFunction(jsonStructure[key]))
     }
   }
 
-  console.log(result)
+  return result
 }
 
 export const createParser = (DOMParser: DOMParser) => {
