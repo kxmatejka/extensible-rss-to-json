@@ -73,7 +73,6 @@ To this
     }
   ]
 }
-
 ```
 
 Then combination of standard parser based on [specification](https://validator.w3.org/feed/docs/rss2.html) and custom parser
@@ -95,6 +94,36 @@ const feed = parser(rss, {
         }
     })
 })
+```
+
+And final structure can be for example
+```json
+{
+  "title": "Lorem ipsum",
+  "image": {
+    "title": "Main image",
+    "url": "https://my-domain.com/logo.jpg"
+  },
+  "items": [
+    {
+      "title": "Lorem ipsum",
+      "url": "https://my-domain.com/lorem-ipsum",
+      "images": [
+        {
+          "url": "https://my-domain.com/lorem-ipsum-small.jpg"
+        },
+        {
+          "url": "https://my-domain.com/lorem-ipsum-big.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Obscure Latin words",
+      "url": "https://my-domain.com/obscure-latin-words",
+      "images": []
+    }
+  ]
+}
 ```
 
 ## Validation of feed
