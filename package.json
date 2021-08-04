@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/kxmatejka/extensible-rss-to-json#readme",
   "dependencies": {
-    "xmldom": "^0.3.0"
+    "xmldom": "^0.6.0"
   },
   "devDependencies": {
     "@types/node": "^13.13.4",
